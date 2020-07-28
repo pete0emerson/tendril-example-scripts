@@ -1,0 +1,5 @@
+---
+short: Run your favorite command
+long: |
+
+  This command will show your favorite things via subcommands.
