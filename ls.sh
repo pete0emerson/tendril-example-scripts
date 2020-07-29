@@ -1,3 +1,3 @@
 #!/bin/bash
 
-date $1
+ls $1
